@@ -1,0 +1,457 @@
+[
+  {
+    "minuteCount" : 87,
+    "pickupCount" : 56,
+    "date" : "2018-04-20T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 72,
+    "pickupCount" : 44,
+    "date" : "2018-04-19T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 139,
+    "pickupCount" : 44,
+    "date" : "2018-04-18T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 60,
+    "pickupCount" : 39,
+    "date" : "2018-04-17T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 118,
+    "pickupCount" : 25,
+    "date" : "2018-04-16T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 95,
+    "pickupCount" : 44,
+    "date" : "2018-04-15T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 75,
+    "pickupCount" : 20,
+    "date" : "2018-04-14T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 37,
+    "pickupCount" : 10,
+    "date" : "2018-04-13T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 121,
+    "pickupCount" : 50,
+    "date" : "2018-04-12T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 146,
+    "pickupCount" : 41,
+    "date" : "2018-04-11T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 123,
+    "pickupCount" : 41,
+    "date" : "2018-04-10T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 111,
+    "pickupCount" : 38,
+    "date" : "2018-04-09T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 177,
+    "pickupCount" : 59,
+    "date" : "2018-04-08T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 150,
+    "pickupCount" : 45,
+    "date" : "2018-04-07T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 139,
+    "pickupCount" : 44,
+    "date" : "2018-04-06T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 83,
+    "pickupCount" : 51,
+    "date" : "2018-04-05T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 204,
+    "pickupCount" : 60,
+    "date" : "2018-04-04T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 34,
+    "pickupCount" : 20,
+    "date" : "2018-04-03T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 181,
+    "pickupCount" : 35,
+    "date" : "2018-04-02T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 120,
+    "pickupCount" : 19,
+    "date" : "2018-04-01T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 171,
+    "pickupCount" : 30,
+    "date" : "2018-03-31T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 58,
+    "pickupCount" : 23,
+    "date" : "2018-03-30T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 107,
+    "pickupCount" : 47,
+    "date" : "2018-03-29T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 177,
+    "pickupCount" : 47,
+    "date" : "2018-03-28T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 135,
+    "pickupCount" : 69,
+    "date" : "2018-03-27T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 105,
+    "pickupCount" : 36,
+    "date" : "2018-03-26T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 91,
+    "pickupCount" : 28,
+    "date" : "2018-03-25T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 153,
+    "pickupCount" : 45,
+    "date" : "2018-03-24T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 179,
+    "pickupCount" : 44,
+    "date" : "2018-03-23T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 79,
+    "pickupCount" : 55,
+    "date" : "2018-03-22T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 116,
+    "pickupCount" : 53,
+    "date" : "2018-03-21T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 141,
+    "pickupCount" : 69,
+    "date" : "2018-03-20T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 158,
+    "pickupCount" : 49,
+    "date" : "2018-03-19T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 122,
+    "pickupCount" : 42,
+    "date" : "2018-03-18T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 75,
+    "pickupCount" : 52,
+    "date" : "2018-03-17T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 91,
+    "pickupCount" : 44,
+    "date" : "2018-03-16T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 130,
+    "pickupCount" : 38,
+    "date" : "2018-03-15T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 86,
+    "pickupCount" : 46,
+    "date" : "2018-03-14T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 127,
+    "pickupCount" : 50,
+    "date" : "2018-03-13T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 206,
+    "pickupCount" : 44,
+    "date" : "2018-03-12T00:00:00-07:00"
+  },
+  {
+    "minuteCount" : 170,
+    "pickupCount" : 33,
+    "date" : "2018-03-11T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 202,
+    "pickupCount" : 54,
+    "date" : "2018-03-10T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 129,
+    "pickupCount" : 40,
+    "date" : "2018-03-09T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 157,
+    "pickupCount" : 86,
+    "date" : "2018-03-08T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 148,
+    "pickupCount" : 48,
+    "date" : "2018-03-07T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 48,
+    "pickupCount" : 25,
+    "date" : "2018-03-06T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 137,
+    "pickupCount" : 32,
+    "date" : "2018-03-05T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 176,
+    "pickupCount" : 63,
+    "date" : "2018-03-04T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 145,
+    "pickupCount" : 64,
+    "date" : "2018-03-03T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 60,
+    "pickupCount" : 51,
+    "date" : "2018-03-02T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 156,
+    "pickupCount" : 29,
+    "date" : "2018-03-01T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 122,
+    "pickupCount" : 69,
+    "date" : "2018-02-28T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 87,
+    "pickupCount" : 46,
+    "date" : "2018-02-27T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 81,
+    "pickupCount" : 44,
+    "date" : "2018-02-26T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 112,
+    "pickupCount" : 74,
+    "date" : "2018-02-25T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 64,
+    "pickupCount" : 23,
+    "date" : "2018-02-24T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 69,
+    "pickupCount" : 29,
+    "date" : "2018-02-23T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 170,
+    "pickupCount" : 42,
+    "date" : "2018-02-22T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 42,
+    "pickupCount" : 10,
+    "date" : "2018-02-21T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 127,
+    "pickupCount" : 21,
+    "date" : "2018-02-20T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 209,
+    "pickupCount" : 13,
+    "date" : "2018-02-19T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 336,
+    "pickupCount" : 23,
+    "date" : "2018-02-18T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 93,
+    "pickupCount" : 26,
+    "date" : "2018-02-17T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 120,
+    "pickupCount" : 42,
+    "date" : "2018-02-16T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 28,
+    "pickupCount" : 5,
+    "date" : "2018-02-15T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 141,
+    "pickupCount" : 24,
+    "date" : "2018-02-14T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 145,
+    "pickupCount" : 31,
+    "date" : "2018-02-13T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 128,
+    "pickupCount" : 16,
+    "date" : "2018-02-12T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 133,
+    "pickupCount" : 33,
+    "date" : "2018-02-11T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 70,
+    "pickupCount" : 26,
+    "date" : "2018-02-10T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 152,
+    "pickupCount" : 39,
+    "date" : "2018-02-09T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 93,
+    "pickupCount" : 31,
+    "date" : "2018-02-08T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 140,
+    "pickupCount" : 66,
+    "date" : "2018-02-07T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 123,
+    "pickupCount" : 54,
+    "date" : "2018-02-06T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 104,
+    "pickupCount" : 39,
+    "date" : "2018-02-05T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 92,
+    "pickupCount" : 27,
+    "date" : "2018-02-04T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 165,
+    "pickupCount" : 34,
+    "date" : "2018-02-03T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 76,
+    "pickupCount" : 55,
+    "date" : "2018-02-02T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 77,
+    "pickupCount" : 35,
+    "date" : "2018-02-01T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 125,
+    "pickupCount" : 52,
+    "date" : "2018-01-31T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 93,
+    "pickupCount" : 47,
+    "date" : "2018-01-30T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 277,
+    "pickupCount" : 40,
+    "date" : "2018-01-29T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 198,
+    "pickupCount" : 27,
+    "date" : "2018-01-28T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 176,
+    "pickupCount" : 37,
+    "date" : "2018-01-27T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 90,
+    "pickupCount" : 39,
+    "date" : "2018-01-26T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 157,
+    "pickupCount" : 65,
+    "date" : "2018-01-25T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 62,
+    "pickupCount" : 33,
+    "date" : "2018-01-24T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 194,
+    "pickupCount" : 54,
+    "date" : "2018-01-23T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 3,
+    "pickupCount" : 1,
+    "date" : "2018-01-22T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 137,
+    "pickupCount" : 0,
+    "date" : "2018-01-21T00:00:00-08:00"
+  },
+  {
+    "minuteCount" : 137,
+    "pickupCount" : 0,
+    "date" : "2018-01-20T00:00:00-08:00"
+  }
+]
